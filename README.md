@@ -23,6 +23,10 @@ Aim of practical-1.5 : Display month name using When.
 Aim of practical-1.6 : By using a user defined function perform all arithmetic operations.
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/9a9ea2a9-36bd-403a-8839-fee91068b3d0)
 
+Aim of practical-1.7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/724462be-f95b-46d7-8922-5e4b81dcd080)
+
+
 
 
 
