@@ -11,10 +11,10 @@ fun main ()
     print("Enter third Number  : ")
     val number3 = readLine()!!.toInt()
 
-    println("Addition of Numbers ${addition(number1,number2,number3)}")
-    println("Subtraction of Numbers ${subtraction(number1,number2,number3)}")
-    println("Multiplication of Numbers ${multiplication(number1,number2,number3)}")
-    println("Division of Numbers ${division(number1,number2,number3)}")
+    println("Addition of Numbers :  ${addition(number1,number2,number3)}")
+    println("Subtraction of Numbers : ${subtraction(number1,number2,number3)}")
+    println("Multiplication of Numbers :  ${multiplication(number1,number2,number3)}")
+    println("Division of Numbers : ${division(number1,number2,number3)}")
 
 
 }
