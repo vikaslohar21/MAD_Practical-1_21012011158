@@ -1,6 +1,8 @@
 package `practical-1`
 
 fun main (){
+
+    // Type conversion
     val integerValue = 10
     println("Integer value : $integerValue")
 
