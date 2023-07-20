@@ -15,6 +15,11 @@ Aim of practical-1.3 : Scan student’s information and display all the data.
 Aim of practical-1.4 : Find the number is odd or even by using Control Flow inside println() method.
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/986aedfc-c966-4d88-88fc-8878fd707095)
 
+Aim of practical-1.5 : Display month name using When.
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/f7e273e6-609b-4673-be44-49d2d0656758)
+
+
+
 
 
 
