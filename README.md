@@ -21,7 +21,8 @@ Aim of practical-1.5 : Display month name using When.
 
 
 Aim of practical-1.6 : By using a user defined function perform all arithmetic operations.
-![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/4acd8b63-fda5-47fb-8774-d29d10cae255)
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/9a9ea2a9-36bd-403a-8839-fee91068b3d0)
+
 
 
 
