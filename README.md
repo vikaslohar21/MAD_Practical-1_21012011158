@@ -27,6 +27,12 @@ Aim of practical-1.7 : Find the factorial of number by recursion. Explain "tailr
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/724462be-f95b-46d7-8922-5e4b81dcd080)
 
 
+Aim of practical-1.9 : Find the max number from ArrayList.
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/04d9648f-e044-47f3-82c3-6659e32fc84b)
+
+
+
+
 
 
 
