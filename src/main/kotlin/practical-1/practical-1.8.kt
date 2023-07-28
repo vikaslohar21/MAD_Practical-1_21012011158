@@ -22,12 +22,12 @@ fun main ()
     var array5 = intArrayOf(12,23,21,3,13)
     println(array5.joinToString())
 
-     println("Print 2-D Array-6 by using arrayOf() and intArrayOf() : ")
-     var array6 = arrayOf(intArrayOf(5,2),intArrayOf(7,6),intArrayOf(9,5))
-     println(array6.contentDeepToString())
+    println("Print 2-D Array-6 by using arrayOf() and intArrayOf() : ")
+    var array6 = arrayOf(intArrayOf(5,2),intArrayOf(7,6),intArrayOf(9,5))
+    println(array6.contentDeepToString())
 
     println("Please enter Array Size : ")
-   var size : Int = readLine()!!.toInt()
+    var size : Int = readLine()!!.toInt()
     println("Please enter Array value : ")
     var user = IntArray(size) {0}
 
@@ -45,12 +45,30 @@ fun main ()
     user.sort()
     println(user.joinToString())
 
-    println()
     println("*********************** Without Built-in Function ***********************")
-
-
-
-
+    bubbleSort(user)
+    println("After Sorting without built-in function : ")
+    println(user.joinToString())
 }
+
+fun bubbleSort(user : IntArray)
+{
+    var n = user.size
+    for (i in 0 until n-1)
+    {
+        for (j in 0 until n-i-1)
+        {
+            if (user [j] > user[j+1])
+            {
+                var temp = user[j]
+                user[j] = user[j+1]
+                user[j+1] = temp
+            }
+        }
+    }
+}
+
+
+
 
 
