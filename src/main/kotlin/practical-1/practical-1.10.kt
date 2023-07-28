@@ -9,19 +9,23 @@ class Car
         var milesdrive : Int
         )
 {
-    init {
+    init
+    {
         println("Object of class is created and Init is Called.")
         println()
     }
-    fun getOriginalCarPrice(): Double {
+    fun getOriginalCarPrice(): Double
+    {
         return Oprice
     }
 
-    fun getCurrentCarPrice(): Double {
+    fun getCurrentCarPrice(): Double
+    {
         return Cprice
     }
 
-    fun displayCarInfo() {
+    fun displayCarInfo()
+    {
         val originalPrice = getOriginalCarPrice()
         val currentPrice = getCurrentCarPrice()
         println("-----------------------------------")
@@ -34,7 +38,8 @@ class Car
     }
 }
 
-fun main() {
+fun main()
+{
     var car1 = Car("BMW",2018, 100000.0,98950.0, "Aman",105 )
     var car2 = Car("BMW",2019, 400000.0,399800.0, "Karan",20 )
     car1.displayCarInfo()
