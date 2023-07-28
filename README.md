@@ -38,7 +38,7 @@ Aim of practical-1.10 : Write Different types of Class & Constructor. Create a c
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/6109bd53-5995-4ce8-bf47-33de813bbec3)
 
 
-Aim of practical-1.10 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
+Aim of practical-1.11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/1218bd01-af69-4558-8b94-c5d892be40a5)
 
 
