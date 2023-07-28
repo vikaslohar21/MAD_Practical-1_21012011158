@@ -28,7 +28,7 @@ Aim of practical-1.7 : Find the factorial of number by recursion. Explain "tailr
 
 
 Aim of practical-1.8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
-![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/1c062682-c8f0-4483-98dc-ee37d51d8b35)
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/9d549cec-e47d-44e4-b189-9a7173a3c3d0)
 
 
 Aim of practical-1.9 : Find the max number from ArrayList.
