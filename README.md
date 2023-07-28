@@ -2,7 +2,7 @@
 Aim of practical-1.1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/a309815f-8a95-458c-9576-1654a1126043)
 
-
+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
 Aim of practical-1.2 : Type conversion:
 Integer to Double, String to Integer, String to Double.
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/854bb42e-da8e-416b-a495-058d97c23d98)
@@ -25,6 +25,16 @@ Aim of practical-1.6 : By using a user defined function perform all arithmetic o
 
 Aim of practical-1.7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/724462be-f95b-46d7-8922-5e4b81dcd080)
+
+
+Aim of practical-1.8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/1c062682-c8f0-4483-98dc-ee37d51d8b35)
+
+
+Aim of practical-1.9 : Find the max number from ArrayList.
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/04d9648f-e044-47f3-82c3-6659e32fc84b)
+
+
 
 
 
