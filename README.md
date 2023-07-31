@@ -2,7 +2,7 @@
 Aim of practical-1.1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/ab43fa8c-e94b-43a6-b05e-87762b2bb79f)
 
-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
+
 Aim of practical-1.2 : Type conversion:
 Integer to Double, String to Integer, String to Double.
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/854bb42e-da8e-416b-a495-058d97c23d98)
