@@ -43,7 +43,6 @@ Aim of practical-1.11 : Write about Operator Overloading. Perform Matrix Additio
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/d62f1f98-b529-4f38-9816-d684d2217fbe)
 ![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/73d20046-3102-4227-8924-20e3f3914aa1)
 
-![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/03262a15-3ffb-4200-8d53-6ce527f358fa)
 
 
 
