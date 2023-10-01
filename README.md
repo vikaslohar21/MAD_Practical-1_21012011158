@@ -9,7 +9,7 @@ Integer to Double, String to Integer, String to Double.
 
 
 Aim of practical-1.3 : Scan student’s information and display all the data.
-![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/b3722ded-518f-4d7f-ac51-5698b320e0c8)
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/a175f961-427a-40c8-8e3a-99fd9388d2da)
 
 
 Aim of practical-1.4 : Find the number is odd or even by using Control Flow inside println() method.
@@ -39,7 +39,10 @@ Aim of practical-1.10 : Write Different types of Class & Constructor. Create a c
 
 
 Aim of practical-1.11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
-![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/1218bd01-af69-4558-8b94-c5d892be40a5)
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/f21bdd8a-21ed-45ce-8409-622f9951d9e5)
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/d62f1f98-b529-4f38-9816-d684d2217fbe)
+![image](https://github.com/vikaslohar21/MAD_Practical-1_21012011158/assets/98016883/73d20046-3102-4227-8924-20e3f3914aa1)
+
 
 
 
